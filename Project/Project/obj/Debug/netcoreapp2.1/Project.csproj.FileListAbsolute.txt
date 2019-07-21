@@ -1,0 +1,25 @@
+C:\Users\Админ\source\repos\Project\Project\obj\Debug\netcoreapp2.1\Project.csprojAssemblyReference.cache
+C:\Users\Админ\source\repos\Project\Project\obj\Debug\netcoreapp2.1\Project.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\Project\Project\obj\Debug\netcoreapp2.1\Project.AssemblyInfoInputs.cache
+C:\Users\Админ\source\repos\Project\Project\obj\Debug\netcoreapp2.1\Project.AssemblyInfo.cs
+C:\Users\Home\Downloads\Telegram Desktop\Project\Project\Project\obj\Debug\netcoreapp2.1\Project.csproj.CoreCompileInputs.cache
+C:\Users\Home\Downloads\Telegram Desktop\Project\Project\Project\obj\Debug\netcoreapp2.1\Project.AssemblyInfoInputs.cache
+C:\Users\Home\Downloads\Telegram Desktop\Project\Project\Project\obj\Debug\netcoreapp2.1\Project.AssemblyInfo.cs
+C:\Users\Home\Downloads\Telegram Desktop\Project\Project\Project\bin\Debug\netcoreapp2.1\Project.deps.json
+C:\Users\Home\Downloads\Telegram Desktop\Project\Project\Project\bin\Debug\netcoreapp2.1\Project.runtimeconfig.json
+C:\Users\Home\Downloads\Telegram Desktop\Project\Project\Project\bin\Debug\netcoreapp2.1\Project.runtimeconfig.dev.json
+C:\Users\Home\Downloads\Telegram Desktop\Project\Project\Project\bin\Debug\netcoreapp2.1\Project.dll
+C:\Users\Home\Downloads\Telegram Desktop\Project\Project\Project\bin\Debug\netcoreapp2.1\Project.pdb
+C:\Users\Home\Downloads\Telegram Desktop\Project\Project\Project\obj\Debug\netcoreapp2.1\Project.dll
+C:\Users\Home\Downloads\Telegram Desktop\Project\Project\Project\obj\Debug\netcoreapp2.1\Project.pdb
+C:\Users\Админ\Desktop\Project\Project\bin\Debug\netcoreapp2.1\Project.deps.json
+C:\Users\Админ\Desktop\Project\Project\bin\Debug\netcoreapp2.1\Project.runtimeconfig.json
+C:\Users\Админ\Desktop\Project\Project\bin\Debug\netcoreapp2.1\Project.runtimeconfig.dev.json
+C:\Users\Админ\Desktop\Project\Project\bin\Debug\netcoreapp2.1\Project.dll
+C:\Users\Админ\Desktop\Project\Project\bin\Debug\netcoreapp2.1\Project.pdb
+C:\Users\Админ\Desktop\Project\Project\obj\Debug\netcoreapp2.1\Project.csprojAssemblyReference.cache
+C:\Users\Админ\Desktop\Project\Project\obj\Debug\netcoreapp2.1\Project.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Desktop\Project\Project\obj\Debug\netcoreapp2.1\Project.AssemblyInfoInputs.cache
+C:\Users\Админ\Desktop\Project\Project\obj\Debug\netcoreapp2.1\Project.AssemblyInfo.cs
+C:\Users\Админ\Desktop\Project\Project\obj\Debug\netcoreapp2.1\Project.dll
+C:\Users\Админ\Desktop\Project\Project\obj\Debug\netcoreapp2.1\Project.pdb
